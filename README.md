@@ -7,4 +7,4 @@ About me:
 - 🌱 I’m currently learning Java, PHP, Python and C#
 - 🇩🇪 I’m come from Germany and live there
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zekiah-A&layout=compact&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunkaChance&layout=compact&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
