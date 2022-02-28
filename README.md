@@ -11,5 +11,5 @@ About me:
 <img align="left" alt="JunkaChance | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunkaChance&layout=compact&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 Contact me:
-- <a href="discord.com">J𝓾𝓴𝓪☾𝓱𝓪𝓷𝓬e#7252</a>
-- <a href="gmail.com">juka.chance@gmail.com</a>
+- <p><a href="discord.com">J𝓾𝓴𝓪☾𝓱𝓪𝓷𝓬e#7252</a></p>
+- <p><a href="gmail.com">juka.chance@gmail.com</a></p>
